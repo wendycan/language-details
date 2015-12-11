@@ -1,5 +1,5 @@
 {
-  "name": "guess-color",
+  "name": "language-details",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,6 +15,7 @@
     "webpack-dev-server": "^1.12.1"
   },
   "dependencies": {
+    "lazy.js": "^0.4.2",
     "underscore": "^1.8.3"
   }
 }
