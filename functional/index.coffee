@@ -51,5 +51,11 @@ window.Lazy = Lazy
 # console.log fibonacci2.cache
 
 ## Chain
+
+## _.chain
 # _.map [1, 2, 3], (n)-> n * 2
 # _([1, 2, 3]).map (n)-> n * 2
+
+## _.tap
+
+## _.value
